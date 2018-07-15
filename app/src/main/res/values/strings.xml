@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clima local</string>
+    <string name="param_latitude">latitude</string>
+    <string name="param_longitude">longitude</string>
+    <string name="weather_service">https://api.darksky.net/forecast/583bf0171d4b4de0d998060b4c8f9ee7/</string>
+    <string name="msg_gps">Esta aplicación requiere el servicio de GPS, por favor activelo</string>
+</resources>
